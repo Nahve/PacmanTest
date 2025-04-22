@@ -16,5 +16,5 @@ Este repositorio contiene una implementación sencilla del clásico juego arcade
 - JavaScript: Implementación de la lógica del juego, movimientos e interacciones de los personajes. - API de Canvas: Dibujar y animar elementos del juego dentro del canvas HTML.
 
 ## Instrucciones de configuración
-1. Clona el repositorio: `git clone https://github.com/aka964/PacMan-game-using-html-js`
+1. Clona el repositorio: `https://github.com/Nahve/PacmanTest.git`
 2. Abre `index.html` en tu navegador web para empezar a jugar.
